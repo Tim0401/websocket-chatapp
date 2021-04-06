@@ -10,6 +10,7 @@ Go+Angular
 https://github.com/googollee/go-socket.io  
 https://orisano.hatenablog.com/entry/2018/12/05/015401  
 https://qiita.com/itsukiss/items/d940d3b8e3938c923bf5  
+https://blog.jxck.io/entries/2016-08-22/websocket-connectivity.html  
 
 ### node.js
 
