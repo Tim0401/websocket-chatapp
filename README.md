@@ -14,6 +14,10 @@ https://blog.jxck.io/entries/2016-08-22/websocket-connectivity.html
 https://qiita.com/K-juju/items/cc89ed55f7c68ae732e0  
 https://github.com/gorilla/websocket  
 
+### goroutine
+
+https://qiita.com/k-penguin-sato/items/5b09fa89d8d231bcdac8  
+
 ### node.js
 
 https://qiita.com/kitakitsune/items/c007529f57ff12e04965  
